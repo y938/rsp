@@ -94,14 +94,14 @@ header > h1 {
     position: absolute;
    top: 30px;
    left: 15px;
-   transform: scale(1.5);
+   transform: scale(1.2);
    outline: none;
 }
 #comp-label{
     position: absolute;
    top: 30px;
    right: 15px;
-   transform: scale(1.5);
+   transform: scale(1.2);
 }
 
 .result{
